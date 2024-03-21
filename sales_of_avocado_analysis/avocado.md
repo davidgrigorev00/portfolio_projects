@@ -1,7 +1,8 @@
 
-##### Final Dashboard:
-[Link to the dashboard](http://redash.lab.karpov.courses/public/dashboards/WPi05JdtZSaOiKqUsdSCPSlTrcSaINfllY6aZYQ6?org_slug=default)
+##### Task:
+Create a dashboard for the avocado sales department in the USA: analyze sales in the San Francisco and New York regions, as well as compare them with overall US indicators, show the volume of sales and its dynamics, compare year-to-year indicators, highlight the most popular types of avocados and packaging. Complete the task using Redash
 
+[Link to the dashboard](http://redash.lab.karpov.courses/public/dashboards/WPi05JdtZSaOiKqUsdSCPSlTrcSaINfllY6aZYQ6?org_slug=default)
 
 
 
@@ -58,7 +59,7 @@ GROUP BY region
 
 ###### Visualization:
 
-
+![Volume proportion](attachments/volume_proportion_vis.png)
 
 ##### Volume dynamics
 
@@ -114,11 +115,10 @@ GROUP BY month
 | 01/11/16 | 92,042,557.08  | 2,071,454.38   | 3,792,194.71  |
 | 01/12/16 | 117,769,994.72 | 2,596,795.88   | 4,620,349.18  |
 | 01/01/17 | 189,450,439.34 | 4,941,736.87   | 7,069,711.28  |
-   |
 
 ###### Visualization:
 
-
+![Volume dynamics](attachments/Dynamics_vis.png)
 
 
 ##### Types of Avocado in NY & SF
@@ -147,7 +147,7 @@ GROUP BY region, type
 
 ###### Visualization:
 
-
+![Types of Avocado in NY & SF](attachments/types_of_avocado.png)
 
 ##### plu & bags volume
 
@@ -177,3 +177,11 @@ GROUP BY region
 
 
 ###### Visualizations:
+
+![plu_volume](attachments/plu_volume.png)
+
+![bags_volume](attachments/bags_volume.png)
+
+##### Final Dashboard:
+![Sales Department Avocado research](attachments/Sales_Deparment_avocado_researcj_sc.png)
+
