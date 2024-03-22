@@ -1,6 +1,6 @@
 # Development of an HR Dashboard
 
-[Link to my project in Tableau public](https://public.tableau.com/app/profile/david.grigorev/viz/HRmonetary-KarpovProject/HRmonetaryDashboard)
+[Link to the project in Tableau public](https://public.tableau.com/app/profile/david.grigorev/viz/HRmonetary-KarpovProject/HRmonetaryDashboard)
 
 
 ### Task Description: Development of an HR Dashboard
@@ -25,7 +25,37 @@
 **Development Goal:** Develop a dashboard that addresses the outlined requirements, streamlining the bonus allocation process and reducing the dependency on manual data manipulation and analysis.
 
 ### Dashboard Canvas
-[Canvas]()
+![Canvas](Attachments/Canvas.png)
 
-### Dashboard 
-[Dashboard_pic]()
+### [Raw Data Description]()
+
+| Name                   | Description                                                              | Column Types       |
+|------------------------|--------------------------------------------------------------------------|--------------------|
+| Age                    | Age                                                                      | Integer            |
+| BusinessTravel         | Category of business trip frequency (frequent or not frequent)            | Categorical        |
+| Department             | Department where the employee is listed                                  | Categorical        |
+| DistanceFromHome       | Distance between home and office in kilometers                           | Integer            |
+| EducationField         | Field of education                                                       | Categorical        |
+| EmployeeCount          | Column for calculating the total number of employees                     | Integer            |
+| EmployeeNumber         | Employee ID                                                              | Integer            |
+| Gender                 | Gender (male, female)                                                    | Categorical        |
+| PerformanceRating      | Performance rating of the employee (1-4, where 4 is excellent)           | Integer            |
+| JobRole                | Job position                                                             | Categorical        |
+| JobSatisfaction        | Level of job satisfaction (1-4, where 4 is very satisfied)               | Integer            |
+| MaritalStatus          | Marital status                                                           | Categorical        |
+| MonthlyIncome          | Monthly income                                                           | Integer            |
+| NumCompaniesWorked     | Number of companies the employee has worked at previously                | Integer            |
+| ProjectsClosed         | Number of projects closed in a year                                      | Integer            |
+| TotalWorkingYears      | Total number of years of work experience                                 | Integer            |
+| TrainingTimesLastYear  | Number of hours of skills development last year                          | Integer            |
+| WorkLifeBalance        | Level of satisfaction with work-life balance (1-4, where 4 is excellent) | Integer            |
+| YearsAtCompany         | Number of years at the company                                           | Integer            |
+| YearsInCurrentRole     | Number of years in the current role                                      | Integer            |
+| YearsSinceLastPromotion| Number of years since the last promotion                                 | Integer            |
+| YearsWithCurrManager   | Number of years with the current manager                                 | Integer            |
+
+
+
+### [Dashboard](https://public.tableau.com/app/profile/david.grigorev/viz/HRmonetary-KarpovProject/HRmonetaryDashboard)
+![Dashboard_pic](Attachments/Final%20Dasboard.png)
+
