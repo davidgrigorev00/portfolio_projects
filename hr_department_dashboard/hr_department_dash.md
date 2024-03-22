@@ -27,7 +27,7 @@
 ### Dashboard Canvas
 ![Canvas](Attachments/Canvas.png)
 
-### [Raw Data Description]()
+### [Raw Data Description](Attachments/Hr_data_monetary.xlsx)
 
 | Name                   | Description                                                              | Column Types       |
 |------------------------|--------------------------------------------------------------------------|--------------------|
