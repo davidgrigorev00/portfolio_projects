@@ -25,7 +25,7 @@
 **Development Goal:** Develop a dashboard that addresses the outlined requirements, streamlining the bonus allocation process and reducing the dependency on manual data manipulation and analysis.
 
 ### Dashboard Canvas
-
-
+[Canvas]()
 
 ### Dashboard 
+[Dashboard_pic]()
