@@ -1,7 +1,7 @@
 # Data Structure And Data Description
 
 ### Data Structure:
-
+![data_structure](attachments/data_str.png)
 
 ### Data Description:
 #### user_actions — действия пользователей с заказами.
