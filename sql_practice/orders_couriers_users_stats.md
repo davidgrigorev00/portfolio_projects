@@ -1,6 +1,6 @@
-# Orders & Couriers & Users statistics
+# Статистика заказов, курьеров и пользователей
 
-## Dashboard overview
+## Overview
 
 ## Link to the Dashboard
 [Ссылка для просмотра дашборда в Redash](http://redash.public.karpov.courses/public/dashboards/uELDYQAyhgWikU0jkEQLIinCyUfxuqDndewsxSqM?org_slug=default)
