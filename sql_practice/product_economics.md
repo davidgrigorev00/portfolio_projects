@@ -517,7 +517,7 @@ ORDER BY revenue DESC
 <details>
 <summary>Визуализация данных</summary>
   
-![Визуализация данных](#)
+![Визуализация данных](attachments/pr_ec/prds.png)
 </details>
 
 
