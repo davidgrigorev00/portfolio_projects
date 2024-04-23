@@ -1,6 +1,6 @@
 # Экономика Продукта
 
-## Dashboard overview
+## Overview
 
 ## Link to the Dashboard
 [Ссылка для просмотра дашборда в Redash](http://redash.public.karpov.courses/public/dashboards/8TnZ2y1HOfjWa0U2x0Y5v2ldHn3HOQAkG5ljbSmG?org_slug=default)
