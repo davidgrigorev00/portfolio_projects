@@ -1,5 +1,8 @@
 # Data Structure And Data Description
 
+### DBMS:
+PostgeSQL
+
 ### Data Structure:
 ![data_structure](attachments/data_str.png)
 
